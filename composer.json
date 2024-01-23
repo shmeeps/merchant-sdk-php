@@ -26,5 +26,11 @@
             "PayPal\\EnhancedDataTypes": "lib/",
             "PayPal\\PayPalAPI": "lib/"
         }
-    }
+    },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/shmeeps/sdk-core-php"
+        }
+    ]
 }
