@@ -16,7 +16,7 @@
     "require": {
         "php": ">=5.3.0",
         "ext-curl": "*",
-        "shmeeps/sdk-core-php":"3.*"
+        "shmeeps/sdk-core-php":"dev-main"
     },
     "autoload": {
         "psr-0": {
