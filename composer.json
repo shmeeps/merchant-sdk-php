@@ -1,7 +1,7 @@
 {
     "name": "shmeeps/merchant-sdk-php",
     "replace": {
-        "paypal/merchant-sdk-php": "3.4.0"
+        "paypal/merchant-sdk-php": "3.12.0"
     },
     "description": "PayPal Merchant SDK for PHP",
     "keywords": ["paypal", "php", "sdk"],
